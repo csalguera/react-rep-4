@@ -1,6 +1,7 @@
 const Feet = (props) => {
   return (
     <>
+      <h1>{props.side} Foot</h1>
     </>
   )
 }
