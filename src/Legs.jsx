@@ -1,3 +1,5 @@
+import Feet from "./Feet"
+
 const Legs = (props) => {
   return (
     <>
